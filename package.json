@@ -1,0 +1,10 @@
+{
+  "name": "bolo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dat": "^13.11.4",
+    "level": "^4.0.0"
+  }
+}
